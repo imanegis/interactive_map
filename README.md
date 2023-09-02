@@ -4,7 +4,9 @@ Import geojson file in a map using leaflet
 ![Diapositive3](https://github.com/imanegis/interactive_map/assets/143059694/dea09b40-c709-4977-af1b-5b3a0e3ea4dc)
 ![Diapositive4](https://github.com/imanegis/interactive_map/assets/143059694/502c7021-ba9b-4f3f-933f-db4f9c50cf98)
 ![Diapositive5](https://github.com/imanegis/interactive_map/assets/143059694/bc7c5406-9033-458c-be88-cecc014cc62d)
-![Uploading Diapositive6.JPG…]()
+![import geojson file in a map](https://github.com/imanegis/interactive_map/assets/143059694/a3ddc6cf-4d38-4fd9-a942-b2380e1cdc92)
+
+
 
 
 
